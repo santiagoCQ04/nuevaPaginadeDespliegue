@@ -49,7 +49,7 @@ header:hover {
     text-align: center;
 }
 
-.carta_1, .carta_2, .carta_3, .carta_4, .carta_5, .carta_6, .carta_7, .carta_8, .carta_9, .carta_10, .carta_11, .carta_12 {
+.carta_1, .carta_2, .carta_3, .carta_4, .carta_5, .carta_6, .carta_7, .carta_8, .carta_9, .carta_10, .carta_11, .carta_12{
     display: grid;
     height: 400px;
     grid-template-rows: repeat(2, 1fr);
